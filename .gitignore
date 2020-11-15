@@ -1,0 +1,4 @@
+#Ignoramos ficheros que comiencen por _
+_*
+#A excepción de _ayuda.txt
+!_ayuda.txt
